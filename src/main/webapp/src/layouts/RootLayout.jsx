@@ -37,6 +37,14 @@ export default function RootLayout() {
                 </NavLink>
               </li>
             </ul>
+
+            <ul className="navbar-nav ms-auto">
+              <li className="nav-item">
+                <a className="nav-link" href="https://github.com/thainguyen101b/wednesday" target='_blank'>
+                  <i className="bi bi-github"></i>
+                </a>
+              </li>
+            </ul>
           </div>
         </div>
       </nav>
